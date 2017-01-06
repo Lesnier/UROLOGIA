@@ -7,4 +7,4 @@ $numero2 = 20;
 
 $result = $numero1 + $numero2;
 
-echo $result;
+echo "Este es el resultado ".$result;
